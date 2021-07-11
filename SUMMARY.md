@@ -4,9 +4,5 @@
 
 ## etc
 
----
-
-* [첫글](undefined.md)
-
-## programming
+* [첫글](etc/undefined.md)
 
