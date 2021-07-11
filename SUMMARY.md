@@ -1,5 +1,4 @@
 # Table of contents
 
-* [ykh-blog](README.md)
-* [Welcome to GitHub Pages](index.md)
+* [양국현 블로그](README.md)
 
