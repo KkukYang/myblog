@@ -23,7 +23,7 @@ func();
 
 * 이미지도 한번 넣어보고.
 
-{% file src=".gitbook/assets/image.jpg" caption="그림그림" %}
+![&#xADF8;&#xB9BC;&#xADF8;&#xB9BC;](.gitbook/assets/image.jpg)
 
 음.. 잘나오네..  
 _single asterisks_  
